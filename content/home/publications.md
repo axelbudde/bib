@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
-Finden Sie schnell relevante Inhalte, indem Sie die [Veröffentlichungen filtern](./publication/).
+Finden Sie schnell relevante Inhalte, indem Sie die [Publikationen filtern](./publication/).
 {{% /callout %}}
