@@ -4,11 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: '#about'
+  - name: Aktuelle
+    url: '#publications'
     weight: 10
   - name: UKB COVID-19 Bibliothek
-    url: '#featured'
+    url: '#publication'
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
