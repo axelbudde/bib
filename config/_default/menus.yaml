@@ -8,7 +8,7 @@ main:
     url: '#publications'
     weight: 10
   - name: UKB COVID-19 Bibliothek
-    url: '#publication'
+    url: publication
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
