@@ -91,7 +91,7 @@
 - id: publication_type
   translation: Typ
 - id: date
-  translation: Datum
+  translation: Jahr
 - id: last_updated
   translation: Zuletzt aktualisiert am
 - id: event
