@@ -1,17 +1,16 @@
 ---
-title: "Publikationen"
+title: UKB COVID-19 Publikationen
+cms_exclude: true
 
 # View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 1
-
-profile: false
-
+#   4 = Citation
+view: 4
 
 # Optional header image (relative to `static/media/` folder).
-image:
-  caption: "Bildnachweis: [Gabriel Sollmann auf **unsplash**](https://unsplash.com/photos/Y7d265_7i08)"
-  
+header:
+  caption: ''
+  image: ''
 ---
