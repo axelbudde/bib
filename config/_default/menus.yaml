@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Aktuelle
+  - name: Aktuelle UKB COVID-19 Publikationen
     url: '#publications'
     weight: 10
   - name: UKB COVID-19 Bibliothek
