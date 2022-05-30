@@ -1,0 +1,13 @@
+---
+title: "SARS-CoV-2 seroconversions and chains of infection in healthcare professionals in a German maximum care provider (The CoSHeP study)"
+date: 2021-06-01
+publishDate: 2022-05-30T15:00:36.680821Z
+authors: ["Kathrin van Bremen", "Malte Monin", "Anna Maria Eis-Hübinger", "Benjamin Marx", "Souhaib Aldabaggh", "Hendrik Streeck", "Jan-Christian Wasmuth", "Tanja Menting", "Stefan Schlabe", "Gereon J. Rieke", "Carolynne Schwarze-Zander", "Jürgen K. Rockstroh", "Christoph Boesecke"]
+publication_types: ["2"]
+abstract: "INTRODUCTION: The CoSHeP study provides novel data on SARS-CoV-2 seroconversion rates in healthcare professionals (HP) at risk at the University Hospital Bonn, a maximum healthcare provider in a region of 900.000 inhabitants. METHODS: Single-center, longitudinal observational study investigating rate of SARS-CoV-2 IgG seroconversion in HP at 2 time-points. SARS-CoV-2 IgG was measured with Roche Elecsys Anti-SARS-CoV-2 assay. RESULTS: Overall, 150 HP were included. Median age was 35 (range: 19-68). Main operational areas were intensive care unit (53%, n = 80), emergency room (31%, n = 46), and infectious disease department (16%, n = 24). SARS-CoV-2-IgG was detected in 5 participants (3%) at inclusion in May/June 2020, and in another 11 participants at follow-up (December 2020/ January 2021). Of the 16 seropositive participants, 14 had already known their SARS-CoV-2 infection because they had performed a PCR-test previously triggered by symptoms. Trailing chains of infection by self-assessment, 31% (n = 5) of infections were acquired through private contacts, 25% (n = 4) most likely through semi-private contacts during work. 13% (n = 2) were assumed to result through contact with contagious patients, further trailing was unsuccessful in 31% (n = 5). All five participants positive for SARS-CoV-2 IgG at inclusion remained positive with a median of 7 months after infection. DISCUSSION: Frontline HP caring for hospitalized patients with COVID-19 are at higher risk of SARS-CoV-2 infections. Noteworthy, based upon identified chains of infection most of the infections were acquired in private environment and semi-private contacts during work. The low rate of infection through infectious patients reveals that professional hygiene standards are effective in preventing SARS-CoV-2 infections in HP. Persisting SARS-CoV-2-IgG might indicate longer lasting immunity supporting prioritization of negative HP for vaccination."
+featured: false
+publication: "*Infection*"
+tags: ["Chains of infection", "Healthcare-professionals", "Persisting immunity", "SARS-CoV-2-IgG"]
+doi: "10.1007/s15010-021-01641-6"
+---
+

@@ -1,0 +1,13 @@
+---
+title: "Einstellung von Patienten zu möglicher Telemedizin in der Ophthalmologie"
+date: 2021-09-01
+publishDate: 2022-05-30T15:00:36.709094Z
+authors: ["Sarah B. Zwingelberg", "Karl Mercieca", "Eva Elksne", "Stephanie Scheffler", "Verena Prokosch"]
+publication_types: ["2"]
+abstract: "Hintergrund Die COVID-19-Pandemie im Jahr 2020 und 2021 schränkt die Versorgung augenärztlicher Patienten vielfach ein. Teleophthalmologische Leistungen wie Videokonsultation oder medizinische Telefonberatungen könnten den Mangel an notwendigen Kontrollen bei chronischen Erkrankungen, zumindest teilweise, kompensieren. Teleophthalmologische Angebote sind jedoch in Deutschland aktuell noch deutlich unterrepräsentiert.  Ziel der Arbeit Um die Bereitschaft auf Patientenseite zur Telemedizin und virtuellen Klinik zu ermitteln, führten wir bei Patienten der Hochschulmedizin mit bekanntem Glaukom als chronische Erkrankung eine Umfrage mittels Fragebogen während der ersten Welle der COVID-19-Pandemie zum Thema Teleophthalmologie durch.  Methoden Es wurden 100 Patienten befragt. Der Fragenkatalog beinhaltete 22 Fragen mit Mehrfachwahl-Antwortmöglichkeiten. Als Einschlusskriterium galten das Vorhandensein eines Glaukoms als chronische Erkrankung, Alter über 18 Jahre sowie eine ausreichende sprachliche Verständigung zur Beantwortung der Fragen. Die Daten wurden anonymisiert erhoben, analysiert und ausgewertet.  Ergebnisse In der Patientenumfrage konnte aufgezeigt werden, dass eine hohe Bereitschaft zur Teleophthalmologie bei den Befragten im Bereich des Glaukoms als chronische Erkrankung vorhanden ist und diese in Anspruch genommen werden würde; 74,0 % der Befragten würden Telemedizin und virtuelle Kliniken akzeptieren; 54,0 % der Befragten ophthalmologischen Patienten gab an, dass ihr Arzt‑/Klinikbesuch aufgrund von SARS-CoV‑2 nicht stattfinden konnte; 17,0 % der Patienten gaben an, dass sich durch die SARS-CoV-2-Pandemie ihre Meinung gegenüber der Telemedizin geändert hat.  Diskussion Die Akzeptanz der Patienten für Telemedizin bei Patienten mit chronischem Offenwinkelglaukom scheint erstaunlich hoch. Diese ist durch die SARS-CoV-2-Pandemie noch weiter gesteigert worden. Diese Ergebnisse spiegeln eine generelle Bereitschaft bei Patienten mit chronischer Augenerkrankung wider, reflektieren jedoch nicht die Anwendbarkeit sowie die Akzeptanz aus ärztlicher Sicht. Diese Form der virtuellen Konsultation findet jedoch bei einem Großteil der Patienten mit Glaukom Akzeptanz und könnte überdacht werden."
+featured: false
+publication: "*Ophthalmologe*"
+url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8450718/"
+doi: "10.1007/s00347-021-01501-6"
+---
+

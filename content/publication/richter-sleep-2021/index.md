@@ -1,0 +1,13 @@
+---
+title: "Sleep quality and COVID-19 outcomes: the evidence-based lessons in the framework of predictive, preventive and personalised (3P) medicine"
+date: 2021-06-01
+publishDate: 2022-05-30T15:00:36.671719Z
+authors: ["Kneginja Richter", "Stefanie Kellner", "Thomas Hillemacher", "Olga Golubnitschaja"]
+publication_types: ["2"]
+abstract: "Sleep quality and duration play a pivotal role in maintaining physical and mental health. In turn, sleep shortage, deprivation and disorders are per evidence the risk factors and facilitators of a broad spectrum of disorders, amongst others including depression, stroke, chronic inflammation, cancers, immune defence insufficiency and individual predisposition to infection diseases with poor outcomes, for example, related to the COVID-19 pandemic. Keeping in mind that COVID-19-related global infection distribution is neither the first nor the last pandemic severely affecting societies around the globe to the costs of human lives accompanied with enormous economic burden, lessons by predictive, preventive and personalised (3P) medical approach are essential to learn and to follow being better prepared to defend against global pandemics. To this end, under extreme conditions such as the current COVID-19 pandemic, the reciprocal interrelationship between the sleep quality and individual outcomes becomes evident, namely, at the levels of disease predisposition, severe versus mild disease progression, development of disease complications, poor outcomes and related mortality for both - population and healthcare givers. The latter is the prominent example clearly demonstrating the causality of severe outcomes, when the long-lasting work overload and shift work rhythm evidently lead to the sleep shortage and/or deprivation that in turn causes immune response insufficiency and strong predisposition to the acute infection with complications. This article highlights and provides an in-depth analysis of the concerted risk factors related to the sleep disturbances under the COVID-19 pandemic followed by the evidence-based recommendations in the framework of predictive, preventive and personalised medical approach."
+featured: false
+publication: "*EPMA Journal*"
+url_pdf: "https://link.springer.com/10.1007/s13167-021-00245-2"
+doi: "10.1007/s13167-021-00245-2"
+---
+
