@@ -1,7 +1,7 @@
 ---
 title: "Beyond the AJR: Cardiac PET/MRI for the Assessment of Myocardial Injury After COVID-19"
 date: 2022-02-01
-publishDate: 2022-05-30T15:00:36.753151Z
+publishDate: 2022-05-31T16:00:44.830913Z
 authors: ["Dmitrij Kravchenko", "Julian A. Luetkens"]
 publication_types: ["2"]
 abstract: ""

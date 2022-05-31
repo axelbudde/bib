@@ -1,7 +1,7 @@
 ---
 title: "Impact of COVID-19 on gynaecological patient care: results of patient’s survey with 327 patients"
 date: 2022-02-01
-publishDate: 2022-05-31T09:07:15.220616Z
+publishDate: 2022-05-31T16:00:44.755689Z
 authors: ["F. Recker", "S. Dohmen", "E. K. Egger", "M. B. Stope", "D. Dimitrova", "D. Könsgen", "M. Ritter", "J. Sehouli", "M. Gadebusch Bondio", "A. Mustea"]
 publication_types: ["2"]
 abstract: "The pandemic SARS-CoV-2 poses new and unprecedented challenges for health care systems on a national and global level. Although the current situation has been going on for more than 1 year, there is limited data on the impact of the pandemic on general hospital and medical practice care. This survey captures the perspective of patients with gynaecological diseases of this impact."

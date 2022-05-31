@@ -1,13 +1,13 @@
 ---
 title: "Myocarditis Following COVID-19 Vaccination"
-date: 2021-08-01
-publishDate: 2022-05-30T15:00:36.720070Z
+date: 2021-10-01
+publishDate: 2022-05-31T16:00:44.727035Z
 authors: ["Alexander Isaak", "Andreas Feisst", "Julian A. Luetkens"]
 publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Radiology*"
-url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8369878/"
+url_pdf: "https://pubs.rsna.org/doi/10.1148/radiol.2021211766"
 doi: "10.1148/radiol.2021211766"
 ---
 

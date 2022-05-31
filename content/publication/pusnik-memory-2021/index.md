@@ -1,7 +1,7 @@
 ---
 title: "Memory B cells targeting SARS-CoV-2 spike protein and their dependence on CD4+ T cell help"
 date: 2021-06-01
-publishDate: 2022-05-30T15:00:36.656261Z
+publishDate: 2022-05-31T16:00:44.803191Z
 authors: ["Jernej Pušnik", "Enrico Richter", "Bianca Schulte", "Ramona Dolscheid-Pommerich", "Christian Bode", "Christian Putensen", "Gunther Hartmann", "Galit Alter", "Hendrik Streeck"]
 publication_types: ["2"]
 abstract: ""

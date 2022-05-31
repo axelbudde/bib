@@ -1,13 +1,14 @@
 ---
 title: "Estimating effective infection fatality rates during the course of the COVID-19 pandemic in Germany"
 date: 2021-06-01
-publishDate: 2022-05-30T15:00:36.669560Z
+publishDate: 2022-05-31T16:00:44.783313Z
 authors: ["Christian Staerk", "Tobias Wistuba", "Andreas Mayr"]
 publication_types: ["2"]
-abstract: "Background The infection fatality rate (IFR) of the Coronavirus Disease 2019 (COVID-19) is one of the most discussed figures in the context of this pandemic. In contrast to the case fatality rate (CFR), the IFR depends on the total number of infected individuals – not just on the number of confirmed cases. In order to estimate the IFR, several seroprevalence studies have been or are currently conducted.  Methods Using German COVID-19 surveillance data and age-group specific IFR estimates from multiple international studies, this work investigates time-dependent variations in effective IFR over the course of the pandemic. Three different methods for estimating (effective) IFRs are presented: (a) population-averaged IFRs based on the assumption that the infection risk is independent of age and time, (b) effective IFRs based on the assumption that the age distribution of confirmed cases approximately reflects the age distribution of infected individuals, and (c) effective IFRs accounting for age- and time-dependent dark figures of infections.  Results Effective IFRs in Germany are estimated to vary over time, as the age distributions of confirmed cases and estimated infections are changing during the course of the pandemic. In particular during the first and second waves of infections in spring and autumn/winter 2020, there has been a pronounced shift in the age distribution of confirmed cases towards older age groups, resulting in larger effective IFR estimates. The temporary increase in effective IFR during the first wave is estimated to be smaller but still remains when adjusting for age- and time-dependent dark figures. A comparison of effective IFRs with observed CFRs indicates that a substantial fraction of the time-dependent variability in observed mortality can be explained by changes in the age distribution of infections. Furthermore, a vanishing gap between effective IFRs and observed CFRs is apparent after the first infection wave, while an increasing gap can be observed during the second wave.  Conclusions The development of estimated effective IFR and observed CFR reflects the changing age distribution of infections over the course of the COVID-19 pandemic in Germany. Further research is warranted to obtain timely age-stratified IFR estimates, particularly in light of new variants of the virus."
+abstract: "The infection fatality rate (IFR) of the Coronavirus Disease 2019 (COVID-19) is one of the most discussed figures in the context of this pandemic. In contrast to the case fatality rate (CFR), the IFR depends on the total number of infected individuals – not just on the number of confirmed cases. In order to estimate the IFR, several seroprevalence studies have been or are currently conducted."
 featured: false
 publication: "*BMC Public Health*"
-url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8178670/"
+tags: ["COVID-19", "Dark figures", "Infection fatality rate", "Mortality", "SARS-CoV-2"]
+url_pdf: "https://doi.org/10.1186/s12889-021-11127-7"
 doi: "10.1186/s12889-021-11127-7"
 ---
 

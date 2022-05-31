@@ -1,7 +1,7 @@
 ---
 title: "Contemporary antiretrovirals and body-mass index: a prospective study of the RESPOND cohort consortium"
 date: 2021-11-01
-publishDate: 2022-05-30T15:00:36.743077Z
+publishDate: 2022-05-31T16:00:44.699368Z
 authors: ["Loveleen Bansi-Matharu", "Andrew Phillips", "Cristiana Oprea", "Katharina Grabmeier-Pfistershammer", "Huldrych F. Günthard", "Stephane De Wit", "Giovanni Guaraldi", "Jorg J. Vehreschild", "Ferdinand Wit", "Matthew Law", "Jan-Christian Wasmuth", "Nikoloz Chkhartishvili", "Antonella d'Arminio Monforte", "Eric Fontas", "Jan Vesterbacka", "Jose M. Miro", "Antonella Castagna", "Christoph Stephan", "Josep M. Llibre", "Bastian Neesgaard", "Lauren Greenberg", "Colette Smith", "Ole Kirk", "Claudine Duvivier", "Gordana Dragovic", "Jens Lundgren", "Nikos Dedes", "Andreas Knudsen", "Joel Gallant", "Vani Vannappagari", "Lars Peters", "Daniel Elbirt", "Mario Sarcletti", "Dominique L. Braun", "Coca Necsoi", "Cristina Mussini", "Camilla Muccini", "Natalie Bolokadze", "Jennifer Hoy", "Amanda Mocroft", "Lene Ryom"]
 publication_types: ["2"]
 abstract: ""
