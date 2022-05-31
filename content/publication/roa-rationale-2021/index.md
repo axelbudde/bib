@@ -1,7 +1,7 @@
 ---
 title: "Rationale for using a C-arm fluoroscope to deliver a kilovoltage radiotherapy treatment to COVID-19 patients"
 date: 2021-01-01
-publishDate: 2022-05-31T16:00:44.619293Z
+publishDate: 2022-05-31T17:48:50.133736Z
 authors: ["Dante Roa", "Harry Moyses", "Stephanie Leon", "Barabara Hamrick", "Gustavo R. Sarria", "Benjamin Li", "Toshiki Tajima", "Ales Necas", "Carmen Guzman", "Oliver Paucar", "Alberto Gonzales", "Roger Challco", "Modesto Montoya", "Zintia Arqque", "Andres Gonzales", "Jimmy Hernandez"]
 publication_types: ["2"]
 abstract: ""

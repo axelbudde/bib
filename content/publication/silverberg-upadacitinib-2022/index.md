@@ -1,7 +1,7 @@
 ---
 title: "Upadacitinib plus topical corticosteroids in atopic dermatitis: Week 52 AD Up study results"
 date: 2022-03-01
-publishDate: 2022-05-31T16:00:44.680989Z
+publishDate: 2022-05-31T17:48:50.195757Z
 authors: ["Jonathan I. Silverberg", "Marjolein de Bruin-Weller", "Thomas Bieber", "Weily Soong", "Kenji Kabashima", "Antonio Costanzo", "David Rosmarin", "Charles Lynde", "John Liu", "Amy Gamelli", "Jiewei Zeng", "Barry Ladizinski", "Alvina D. Chu", "Kristian Reich"]
 publication_types: ["2"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 Vaccination Strategy for Hospital Staff in Germany: A Cross-Sectional Study in March-April 2021"
 date: 2022-05-01
-publishDate: 2022-05-31T16:00:44.710174Z
+publishDate: 2022-05-31T17:48:50.221241Z
 authors: ["Amelia A. Mardiko", "Stephanie Heinemann", "Anna Bludau", "Hani E. J. Kaba", "Andreas Leha", "Nicole von Maltzahn", "Nico T. Mutters", "Rasmus Leistner", "Frauke Mattner", "Simone Scheithauer"]
 publication_types: ["2"]
 abstract: ""

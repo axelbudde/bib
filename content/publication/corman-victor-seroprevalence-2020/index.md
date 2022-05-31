@@ -1,7 +1,7 @@
 ---
 title: "Seroprevalence and correlates of SARS-CoV-2 neutralizing antibodies: Results from a population-based study in Bonn, Germany"
 date: 2020-08-01
-publishDate: 2022-05-31T16:00:44.521635Z
+publishDate: 2022-05-31T17:48:50.069311Z
 authors: ["Victor Corman", "Ahmad Aziz", "Antje Echterhoff", "Anja Richter", "Christian Drosten", "Antonio Schmandke", "Marie Luisa Schmidt", "Thomas Schmidt", "Folgerdiena de Vries", "Monique Breteler"]
 publication_types: ["2"]
 abstract: ""

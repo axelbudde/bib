@@ -1,7 +1,7 @@
 ---
 title: "Stable and safe organ procurement and transplantation during SARS-CoV-2 pandemic in Germany"
 date: 2020-01-01
-publishDate: 2022-05-31T16:00:44.585016Z
+publishDate: 2022-05-31T17:48:50.108968Z
 authors: ["Christian Hugo", "Christian Strassburg", "Melanie Stecher", "Axel Rahmel"]
 publication_types: ["2"]
 abstract: ""

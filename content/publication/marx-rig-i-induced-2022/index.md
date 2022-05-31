@@ -1,7 +1,7 @@
 ---
 title: "RIG-I-induced innate antiviral immunity protects mice from lethal SARS-CoV-2 infection"
 date: 2022-03-01
-publishDate: 2022-05-31T16:00:44.683667Z
+publishDate: 2022-05-31T17:48:50.198325Z
 authors: ["Samira Marx", "Beate M. Kümmerer", "Christian Grützner", "Hiroki Kato", "Martin Schlee", "Marcel Renn", "Eva Bartok", "Gunther Hartmann"]
 publication_types: ["2"]
 abstract: ""

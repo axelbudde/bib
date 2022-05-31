@@ -1,7 +1,7 @@
 ---
 title: "Diffuse Myocardial Inflammation in COVID-19 Associated Myocarditis Detected by Multiparametric Cardiac Magnetic Resonance Imaging"
 date: 2020-05-01
-publishDate: 2022-05-31T16:00:44.540740Z
+publishDate: 2022-05-31T17:48:50.082732Z
 authors: ["Luetkens Julian Alexander", "Isaak Alexander", "Zimmer Sebastian", "Nattermann Jacob", "Sprinkart Alois Martin", "Boesecke Christoph", "Rieke Gereon Jonas", "Zachoval Christian", "Heine Annkristin", "Velten Markus", "Duerr Georg Daniel"]
 publication_types: ["2"]
 abstract: ""

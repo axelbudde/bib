@@ -1,7 +1,7 @@
 ---
 title: "Characteristic Temporary Loss of Taste and Olfactory Senses in SARS-CoV-2-positive-Individuals with Mild Symptoms"
 date: 2020-05-01
-publishDate: 2022-05-31T16:00:44.636837Z
+publishDate: 2022-05-31T17:48:50.151800Z
 authors: ["Ricarda M. Schmithausen", "Manuel Döhla", "Heidrun Schöβler", "Christin Diegmann", "Bianca Schulte", "Enrico Richter", "Anna-Maria Eis-Hübinger", "Hendrik Streeck"]
 publication_types: ["2"]
 abstract: ""

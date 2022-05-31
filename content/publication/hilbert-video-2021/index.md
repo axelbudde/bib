@@ -1,7 +1,7 @@
 ---
 title: "Video laryngoscopy during airway management in COVID-19 patients: practical relevance of a recent EJA Christmas issue article"
 date: 2021-01-01
-publishDate: 2022-05-31T16:00:44.605538Z
+publishDate: 2022-05-31T17:48:50.122360Z
 authors: ["Tobias Hilbert"]
 publication_types: ["2"]
 abstract: "An abstract is unavailable."
