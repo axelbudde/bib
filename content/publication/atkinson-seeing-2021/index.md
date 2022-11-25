@@ -1,7 +1,7 @@
 ---
 title: "Seeing the value of experiential knowledge through COVID-19"
 date: 2021-06-01
-publishDate: 2022-05-31T17:48:50.283083Z
+publishDate: 2022-11-25T19:35:45.035532Z
 authors: ["Sarah Atkinson", "Hannah Bradby", "Mariacarla Gadebusch Bondio", "Anna Hallberg", "Jane Macnaugthon", "Ylva Söderfeldt"]
 publication_types: ["2"]
 abstract: "Seeing the entwinement of social and epistemic challenges through COVID, we discuss the perils of simplistic appeals to ‘follow the science’. A hardened scientism risks excarbating social conflict and fueling conspiracy beliefs. Instead, we see an opportunity to devise more inclusive medical knowledge practices through endorsing experiential knowledge alongside traditional evidence types."

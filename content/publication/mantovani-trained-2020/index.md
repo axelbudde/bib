@@ -1,7 +1,7 @@
 ---
 title: "Trained Innate Immunity, Epigenetics, and Covid-19"
 date: 2020-09-01
-publishDate: 2022-05-31T17:48:50.070169Z
+publishDate: 2022-11-25T19:35:44.800083Z
 authors: ["Alberto Mantovani", "Mihai G. Netea"]
 publication_types: ["2"]
 abstract: "Clinical Implications of Basic Research from The New England Journal of Medicine — Trained Innate Immunity, Epigenetics, and Covid-19"

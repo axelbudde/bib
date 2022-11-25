@@ -1,7 +1,7 @@
 ---
 title: "First do no harm—beware the risk of therapeutic plasma exchange in severe COVID-19"
 date: 2020-06-01
-publishDate: 2022-05-31T17:48:50.152516Z
+publishDate: 2022-11-25T19:35:44.870895Z
 authors: ["Klaus Stahl", "Christian Bode", "Sascha David"]
 publication_types: ["2"]
 abstract: ""

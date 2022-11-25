@@ -1,7 +1,7 @@
 ---
 title: "Therapie von PatientInnen mit COVID-19"
 date: 2020-10-01
-publishDate: 2022-05-31T17:48:50.159705Z
+publishDate: 2022-11-25T19:35:44.853455Z
 authors: ["W. Nehls", "S. Delis", "B. Haberland", "B. O. Maier", "K. Sänger", "G. Tessmer", "L. Radbruch", "C. Bausewein"]
 publication_types: ["2"]
 abstract: ""

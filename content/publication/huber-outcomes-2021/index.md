@@ -1,7 +1,7 @@
 ---
 title: "Outcomes of SARS-CoV-2 Infections in Patients With Neurodegenerative Diseases in the LEOSS Cohort"
 date: 2021-01-01
-publishDate: 2022-05-31T17:48:50.175329Z
+publishDate: 2022-11-25T19:35:44.821890Z
 authors: ["Meret K. Huber", "Claudia Raichle", "Paul Lingor", "Matthis Synofzik", "Stefan Borgmann", "Johanna Erber", "Lukas Tometten", "Wolfgang Rimili", "Sebastian Dolff", "Kai Wille", "Samuel Knauss", "Christiane Piepel", "Julia Lanznaster", "Siegbert Rieg", "Fabian Prasser", "Lisa Pilgram", "Annika Spottke", "Thomas Klockgether", "Christine Klein", "Franziska Hopfner", "Günter U. Höglinger"]
 publication_types: ["2"]
 abstract: ""

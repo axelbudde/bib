@@ -1,7 +1,7 @@
 ---
 title: "Trends in educational disparities in preventive behaviours, risk perception, perceived effectiveness and trust in the first year of the COVID-19 pandemic in Germany"
 date: 2022-05-01
-publishDate: 2022-05-31T17:48:50.308762Z
+publishDate: 2022-11-25T19:35:45.009591Z
 authors: ["Timo-Kolja Pförtner", "Simone Dohle", "Kira Isabel Hower"]
 publication_types: ["2"]
 abstract: "Educational disparities in health and health behaviours have always been relevant in public health research and are particularly challenging in the context of the COVID-19 pandemic. First studies suggest that factors important for the containment of the COVID-19 pandemic, such as prevention behaviour, risk perception, perceived effectiveness of containment measures, and trust in authorities handling the pandemic, vary by educational status. This study builds on recent debate by examining trends in absolute and relative educational disparities in these factors in the first year of the COVID-19 pandemic in Germany."

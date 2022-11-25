@@ -1,13 +1,14 @@
 ---
-title: "Cardiac MRI in Suspected Acute Myocarditis After COVID-19 mRNA Vaccination"
-date: 2022-03-01
-publishDate: 2022-05-30T15:00:36.747672Z
-authors: ["Dmitrij Kravchenko", "Alexander Isaak", "Narine Mesropyan", "Christoph Endler", "Leon Bischoff", "Thomas Vollbrecht", "Claus Christian Pieper", "Alexander Sedaghat", "Daniel Kuetting", "Christopher Hart", "Andreas Feisst", "Ulrike Attenberger", "Julian Alexander Luetkens"]
+title: "Cardiac adverse reactions of COVID-19 vaccination: cardiac MRI findings"
+date: 2022-11-01
+publishDate: 2022-11-25T19:35:44.958390Z
+authors: ["Dmitrij Kravchenko", "Julian Alexander Luetkens"]
 publication_types: ["2"]
-abstract: "textlessptextgreater textbfPurpose To evaluate cardiac MRI characteristics in patients with suspected hypersensitivity myocarditis following mRNA COVID-19 vaccination.textless/ptextgreater textlessptextgreater textbfMaterials and Methods Patients clinically suspected of acute myocarditis after COVID-19 vaccination were retrospectively analyzed and compared against a healthy control group. Cardiac MRI protocol included parameters such as T1 and T2 relaxation times, extracellular volume (ECV), T2 signal intensity ratio, and late gadolinium enhancement (LGE). Lymph node size was assessed in the patient group on the injection side. Student t-test, analyses of variance (ANOVA) with Tukey post-hoc test, and χ$^textrm2$ test were used for statistical analysis.textless/ptextgreater textlessptextgreater textbfResults 20 patients with clinically suspected post-vaccine myocarditis (28 ± 12 years; 12 men) and 40 controls (31 ± 11 years; 25 men) were evaluated. According to the 2018 Lake Louise criteria (LLC), patients with clinically suspected myocarditis were further subdivided into an LLC-positive group (n = 9) and an LLC-negative group (n = 11). The mean time of symptom onset after vaccination was 1.1 ± 1.2 days (LLC-positive) and 6.5 ± 9.2 days (LLC-negative). Group differences in inflammatory variables between myocarditis patients and control subjects were more pronounced in the LLC-positive group (e. g., T1 relaxation time: 1041 ± 61 ms [LLC positive] vs. 1008 ± 79 ms [LLC-negative] vs. 970 ± 25 ms [control]; p textless.001; or T2 signal intensity ratio 2.0 ± 0.3 vs. 1.6 ± 0.3 [LLC-negative] and vs. 1.6 ± 0.3 [control], p = .012). LLC-positive patients were significantly faster in receiving an MRI after initial symptom onset (8.8 ± 6.1 days vs. 52.7 ± 33.4 days; p = .001) and had higher troponin T levels (3938 ± 5850 ng/l vs. 9 ± 11 ng/l; p textless.001). LGE lesions were predominantly located at the subepicardium of the lateral wall. Axillary lymphadenopathy was more frequent in the LLC-positive group compared to the LLC-negative group (8/9 [89 %] vs. 0/11 [0 %], p textless 0.001).textless/ptextgreater textlessptextgreater textbfConclusion Vaccine-induced myocarditis should be considered in patients with acute symptom onset after mRNA vaccination, especially if elevated serum troponin T is observed. Imaging findings of vaccine-induced myocarditis are similar to virus-induced myocarditis, allowing for the use of the Lake Louise Criteria for diagnostic purposes.textless/ptextgreater textlessptextgreater textbfKey Points: textless/ptextgreater textlessptextgreater textbfCitation Format textless/ptextgreater"
+abstract: "The rapid development of COVID-19 vaccines in the wake of the COVID-19 pandemic has led to an equally expediently deployed vaccination campaign with more than 12 billion vaccinations administered worldwide. Reports of vaccine-associated adverse reactions (VAARs) have ranged from headaches and pain at the injection site to potentially life-threatening events such as cerebral venous sinus thrombosis. The heart has also not been spared of VAARs, as vaccine-associated myocardial infarction and more commonly, albeit still rare, myocarditis and perimyocarditis have been reported in predominantly young male recipients."
 featured: false
-publication: "*Rofo*"
-url_pdf: "http://www.thieme-connect.de/DOI/DOI?10.1055/a-1752-0951"
-doi: "10.1055/a-1752-0951"
+publication: "*Radiologie*"
+tags: ["Myocarditis", "Covid-19", "Magnetic resonance imaging", "Magnetresonanztomographie", "Myocardial injury", "Myokarditis", "Myokardverletzung", "Nebenwirkung", "Side effect"]
+url_pdf: "https://doi.org/10.1007/s00117-022-01090-8"
+doi: "10.1007/s00117-022-01090-8"
 ---
 

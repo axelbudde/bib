@@ -1,0 +1,13 @@
+---
+title: "A European approach to infection prevention and control goals"
+date: 2021-11-01
+publishDate: 2022-11-25T19:35:44.980760Z
+authors: ["Martin Exner", "Bärbel Christiansen", "Roberto Cocconi", "Alexander Friedrich", "Philippe Hartemann", "Peter Heeg", "Ursel Heudorf", "CaroIa llschner", "Axel Kramer", "Wolfgang Merkens", "Peter Oltmanns", "Frank Pitten", "Hans-Günther Sonntag", "Kathrin Steinhauer", "Athanassios Tsakris", "Rolanda Valinteliene", "Violeta Voynova-Georgieva"]
+publication_types: ["2"]
+abstract: "Die aktuelle COVID-19-Pandemie hat deutlich gemacht, wie wichtig gemeinsame Anstrengungen und ein gemeinsames Vorgehen sind, um die Sicherheit von Patienten und Mitarbeitenden in der medizinischen Versorgung in ganz Europa zu gewährleisten. Auch die jüngsten Hochwasserkatastrophen in Deutschland und anderen Ländern haben gezeigt, dass sofortige überregionale Maßnahmen, in diesem Fall zur Prävention von durch Wasser übertragenen Infektionen, dringend erforderlich sind. Umweltkatastrophen werden zunehmen, und sie haben auch für Krankenhäuser und Pflegeheime Folgen.Ausbrüche müssen verhindert und unter Kontrolle gebracht werden. Zugleich ist mit dem Auftreten neuer Krankheitserreger sowie mit einer bereits jetzt zu beobachtenden geographischen Verschiebung von Infektionskrankheiten zu rechnen.Der Ansatz zur Prävention und Bekämpfung von Infektionskrankheiten muss sowohl strukturelle als auch politische Aspekte beinhalten. Es gilt, den Grundsatz des gleichen Schutzes vor Infektionen in allen europäischen Ländern umzusetzen. Prävention und Bekämpfung von Infektionen, einschließlich nosokomialer Infektionen, Infektionen durch antibiotikaresistente Bakterien sowie Pandemien, müssen in ganz Europa auf den gleichen Standards beruhen.Der Schutz vor Infektionen und anderen Risiken für die öffentliche Gesundheit in allen Ländern Europas ist der beste Garant für die Schaffung von Vertrauen und Identifikation der Bürger in unserem gemeinsamen Europa. Expertinnen und Experten auf den Gebieten der Hygiene, Mikrobiologie, Infektiologie und Epidemiologie müssen ihre Expertise zur Prävention und Bekämpfung von Infektionen aus verschiedenen europäischen Ländern bündeln und die wichtigsten Ziele zur Erreichung eines hohen Standards von Hygienemaßnahmen in Europa definieren. Die Teilnehmer des Internationalen Symposions der Rudolf Schülke Foundation fordern, umgehend zu handeln und der Umsetzung des vorgeschlagenen 16-Punkte-Plans Priorität einzuräumen."
+featured: false
+publication: "*GMS Hyg Infect Control*"
+tags: ["Europe", "COVID-19", "pandemic", "infection control", "antibiotic-resistant bacteria", "environmental disaster", "hygiene", "infection prevention"]
+doi: "10.3205/dgkh000400"
+---
+

@@ -1,7 +1,7 @@
 ---
 title: "Allergic reactions to the first COVID-19 vaccine: A potential role of polyethylene glycol?"
 date: 2021-01-01
-publishDate: 2022-05-31T17:48:50.331759Z
+publishDate: 2022-11-25T19:35:44.983732Z
 authors: ["Beatriz Cabanillas", "Cezmi A. Akdis", "Natalija Novak"]
 publication_types: ["2"]
 abstract: ""

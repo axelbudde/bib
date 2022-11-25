@@ -1,0 +1,13 @@
+---
+title: "The COVID-19 pandemic and its impact on medical teaching in obstetrics and gynecology—A nationwide expert survey among teaching coordinators at German university hospitals"
+date: 2022-08-01
+publishDate: 2022-11-25T19:35:44.971693Z
+authors: ["Maximilian Riedel", "Niklas Amann", "Florian Recker", "André Hennigs", "Sabine Heublein", "Bastian Meyer", "Anne Karge", "Gabriel Eisenkolb", "Jacqueline Lammert", "Anna Graf", "Evelyn Klein", "Martin Weiss", "Fabian Riedel"]
+publication_types: ["2"]
+abstract: "Purpose The COVID-19 pandemic has imposed severe challenges on medical education at German university hospitals. In this first German nationwide expert survey, we addressed the responsible university teaching coordinators in obstetrics and gynecology departments and investigated their experiences during the pandemic as well as their opinions on future developments, especially with regard to the broader implementation of e-learning in the standard curriculum.  Methods The questionnaire included 42 items and was disseminated among teaching coordinators at all 41 departments of obstetrics and gynecology at German university hospitals via an email that included a weblink to the online survey provider. Responses were collected between 19 April and 7 June 2021.  Results In total, 30 responses were collected from 41 departments across Germany and their respective teaching coordinators in obstetrics and gynecology. The general opinion of the medical teaching provided during the pandemic was positive, whereas the teaching quality in practical skills was considered inferior and not equivalent to the standard face-to-face curriculum. Lectures and seminars had to be substituted by remote-learning alternatives, while clinical clerkships were reduced in length and provided less patient contact. Students in their final year experienced only a few differences in the clinical and teaching routine. Teaching coordinators in obstetrics and gynecology stated that they intend to incorporate more e-learning into the curriculum in the future.  Conclusion The medical educators’ views presented here may help to complement the already-thoroughly investigated experiences of students under the restrictions of the COVID-19 pandemic. Medical educators in obstetrics and gynecology at German university hospitals have successfully established online and hybrid teaching alternatives to their standard face-to-face courses. Building on recent experiences, digitalization could help to improve future medical education."
+featured: false
+publication: "*PLoS One*"
+url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9355177/"
+doi: "10.1371/journal.pone.0269562"
+---
+
