@@ -1,5 +1,5 @@
 ---
-title: "Hepatitis C Virus Reactivation Following COVID-19 Vaccination &ndash; A Case Report"
+title: "Hepatitis C Virus Reactivation Following COVID-19 Vaccination - A Case Report"
 date: 2021-08-01
 publishDate: 2022-11-25T19:35:45.042815Z
 authors: ["Ruud Lensen", "Mihai G. Netea", "Frits R. Rosendaal"]
