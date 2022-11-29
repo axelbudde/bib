@@ -15,9 +15,9 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Hospital
     local_business_type: ''
-    org_name: ''
+    org_name: 'UKB'
     description: 'UKB COVID-19 Bibliothek'
     twitter: ''
   analytics:
