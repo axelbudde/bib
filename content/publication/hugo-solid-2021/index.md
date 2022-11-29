@@ -1,7 +1,7 @@
 ---
 title: "Solid organ transplantation is not a risk factor for COVID-19 disease outcome"
 date: 2021-01-01
-publishDate: 2022-11-25T19:35:44.902591Z
+publishDate: 2022-11-29T15:07:45.185163Z
 authors: ["Christian Hugo", "Melanie Stecher", "Sebastian Dolff", "Jacob Nattermann", "Jörg Vehreschild", "Theresa Hippchen", "Timm Westhoff", "Martina Bertolo", "Bernd Hohenstein", "Frank Hanses", "Christian Strassburg"]
 publication_types: ["2"]
 abstract: ""

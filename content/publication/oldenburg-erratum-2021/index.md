@@ -1,7 +1,7 @@
 ---
 title: "Erratum: Diagnosis and Management of Vaccine-Related Thrombosis following AstraZeneca COVID-19 Vaccination: Guidance Statement from the GTH"
 date: 2021-06-01
-publishDate: 2022-11-25T19:35:44.996077Z
+publishDate: 2022-11-29T15:07:45.276069Z
 authors: ["Johannes Oldenburg", "Robert Klamroth", "Florian Langer", "Manuela Albisetti", "Charis von Auer", "Cihan Ay", "Wolfgang Korte", "Rüdiger E. Scharf", "Bernd Pötzsch", "Andreas Greinacher"]
 publication_types: ["2"]
 abstract: "Thieme E-Books & E-Journals"

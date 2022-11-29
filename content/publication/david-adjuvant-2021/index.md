@@ -1,7 +1,7 @@
 ---
 title: "Adjuvant therapeutic plasma exchange in septic shock"
 date: 2021-01-01
-publishDate: 2022-11-25T19:35:44.897002Z
+publishDate: 2022-11-29T15:07:45.179387Z
 authors: ["Sascha David", "Christian Bode", "Christian Putensen", "Tobias Welte", "Klaus Stahl"]
 publication_types: ["2"]
 abstract: ""

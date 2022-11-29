@@ -1,7 +1,7 @@
 ---
 title: "Variation of National and International Guidelines on Respiratory Protection for Health Care Professionals During the COVID-19 Pandemic"
 date: 2021-08-01
-publishDate: 2022-11-25T19:35:45.029146Z
+publishDate: 2022-11-29T15:07:45.308241Z
 authors: ["Gabriel Birgand", "Nico T. Mutters", "Jonathan Otter", "Vanessa M. Eichel", "Didier Lepelletier", "Daniel J. Morgan", "Jean-Christophe Lucet"]
 publication_types: ["2"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Outcomes Associated With Use of a Kinin B2 Receptor Antagonist Among Patients With COVID-19"
 date: 2020-08-01
-publishDate: 2022-11-25T19:35:44.788983Z
+publishDate: 2022-11-29T15:07:45.082467Z
 authors: ["Frank L. van de Veerdonk", "Ilse J. E. Kouijzer", "Aline H. de Nooijer", "Hans G. van der Hoeven", "Coen Maas", "Mihai G. Netea", "Roger J. M. Brüggemann"]
 publication_types: ["2"]
 abstract: ""

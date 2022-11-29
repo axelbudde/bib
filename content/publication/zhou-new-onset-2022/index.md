@@ -1,7 +1,7 @@
 ---
 title: "New-onset autoimmune hepatitis following mRNA COVID-19 vaccination in a 36-year-old woman with primary sclerosing cholangitis – should we be more vigilant?"
 date: 2022-01-01
-publishDate: 2022-11-25T19:35:45.060032Z
+publishDate: 2022-11-29T15:07:45.338531Z
 authors: ["Taotao Zhou", "Florian Fronhoffs", "Leona Dold", "Christian P. Strassburg", "Tobias J. Weismüller"]
 publication_types: ["2"]
 abstract: ""

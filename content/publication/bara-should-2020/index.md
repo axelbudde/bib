@@ -1,7 +1,7 @@
 ---
 title: "Should Deep Brain Stimulation Programs Be Halted During the COVID-19 Pandemic? Balancing the Risk of COVID-19 Infection Against the Survival Benefits of DBS"
 date: 2020-01-01
-publishDate: 2022-11-25T19:35:44.889977Z
+publishDate: 2022-11-29T15:07:45.171774Z
 authors: ["Gregor A. Bara", "Jaroslaw Maciaczyk"]
 publication_types: ["2"]
 abstract: ""

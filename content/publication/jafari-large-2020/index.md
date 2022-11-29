@@ -1,7 +1,7 @@
 ---
 title: "Large saddle pulmonary embolism in a woman infected by COVID-19 pneumonia"
 date: 2020-05-01
-publishDate: 2022-11-25T19:35:44.864540Z
+publishDate: 2022-11-29T15:07:45.140714Z
 authors: ["Ramezan Jafari", "Luca Cegolon", "Atefeh Jafari", "Mandana Kashaki", "Babak Otoukesh", "Bahareh Heshmat Ghahderijani", "Morteza Izadi", "Seyed Hassan Saadat", "Behzad Einollahi", "Mohammad Javanbakht"]
 publication_types: ["2"]
 abstract: ""

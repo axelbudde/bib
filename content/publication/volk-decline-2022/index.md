@@ -1,7 +1,7 @@
 ---
 title: "Decline in the number of patients with meningitis in German hospitals during the COVID-19 pandemic"
 date: 2022-03-01
-publishDate: 2022-11-25T19:35:45.006040Z
+publishDate: 2022-11-29T15:07:45.286078Z
 authors: ["Stefanie Völk", "Markus Pfirrmann", "Uwe Koedel", "Hans-Walter Pfister", "Thomas Lang", "Franziska Scheibe", "Farid Salih", "Julia Herzig-Nichtweiss", "Julian Zimmermann", "Angelika Alonso", "Matthias Wittstock", "Andreas Totzeck", "Patrick Schramm", "Ingo Schirotzek", "Oezguer A. Onur", "Johann Otto Pelz", "Caroline Ottomeyer", "Sebastian Luger", "Kristian Barlinn", "Tobias Binder", "Gabriele Wöbker", "Gernot Reimann", "Christian Urbanek", "Jan Heckelmann", "Piergiorgio Lochner", "Martin Berghoff", "Silvia Schönenberger", "Bernhard Neumann", "Wolf-Dirk Niesen", "Christian Dohmen", "Hagen B. Huttner", "Albrecht Günther", "Matthias Klein"]
 publication_types: ["2"]
 abstract: "In 2020, a wide range of hygiene measures was implemented to mitigate infections caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). In consequence, pulmonary infections due to other respiratory pathogens also decreased. Here, we evaluated the number of bacterial and viral meningitis and encephalitis cases during the coronavirus disease 2019 (COVID-19) pandemic."

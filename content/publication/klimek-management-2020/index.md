@@ -1,7 +1,7 @@
 ---
 title: "Management von Anaphylaxie-gefährdeten Patienten während der Covid-19-Pandemie"
 date: 2020-01-01
-publishDate: 2022-11-25T19:35:44.889334Z
+publishDate: 2022-11-29T15:07:45.171154Z
 authors: ["Ludger Klimek", "Margitta Worm", "Lars Lange", "Kirsten Beyer", "Ernst Rietschel", "Christian Vogelberg", "Sabine Schnadt", "Britta Stöcker", "Knut Brockow", "Jan Hagemann", "Thomas Bieber", "Wolfgang Wehrmann", "Sven Becker", "Laura Freudelsperger", "Norbert K. Mülleneisen", "Katja Nemat", "Wolfgang Czech", "Holger Wrede", "Randolf Brehler", "Thomas Fuchs", "Stephanie Dramburg", "Paolo Matricardi", "Eckard Hamelmann", "Thomas Werfel", "Martin Wagenmann", "Christian Taube", "Torsten Zuberbier", "Johannes Ring"]
 publication_types: ["2"]
 abstract: ""

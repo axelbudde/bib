@@ -1,7 +1,7 @@
 ---
 title: "Myocarditis Following COVID-19 Vaccination"
 date: 2021-10-01
-publishDate: 2022-11-25T19:35:44.913103Z
+publishDate: 2022-11-29T15:07:45.195449Z
 authors: ["Alexander Isaak", "Andreas Feisst", "Julian A. Luetkens"]
 publication_types: ["2"]
 abstract: ""

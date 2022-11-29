@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 vaccines and the role of other potential allergenic components different from PEG. A reply to: “Other excipients than PEG might cause serious hypersensitivity reactions in COVID-19 vaccines”"
 date: 2021-01-01
-publishDate: 2022-11-25T19:35:44.983051Z
+publishDate: 2022-11-29T15:07:45.262846Z
 authors: ["Beatriz Cabanillas", "Cezmi A. Akdis", "Natalija Novak"]
 publication_types: ["2"]
 abstract: ""

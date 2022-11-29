@@ -1,7 +1,7 @@
 ---
 title: "The form of PEG matters: PEG conjugated with lipids and not PEG alone could be the specific form involved in allergic reactions to COVID-19 vaccines"
 date: 2022-01-01
-publishDate: 2022-11-25T19:35:44.949657Z
+publishDate: 2022-11-29T15:07:45.231562Z
 authors: ["Beatriz Cabanillas", "Natalija Novak", "Cezmi A. Akdis"]
 publication_types: ["2"]
 abstract: ""

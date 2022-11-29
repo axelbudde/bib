@@ -1,7 +1,7 @@
 ---
 title: "Wahrnehmungen zum Umgang mit Opioiden bei COVID-19"
 date: 2022-02-01
-publishDate: 2022-11-25T19:35:45.045420Z
+publishDate: 2022-11-29T15:07:45.323984Z
 authors: ["Vera Peuckmann-Post", "Alexandra Scherg", "Norbert Krumm", "Carolin Hagedorn", "Lukas Radbruch", "Andras Keszei", "Roman Rolke", "Frank Elsner"]
 publication_types: ["2"]
 abstract: "Obwohl Opioide wirksam Schmerzen und Dyspnoe lindern, findet dies in Leitlinien zur Symptomkontrolle unterschiedliche Gewichtung. Dies kann zu Unsicherheiten bezüglich Indikationen und ethischer Implikationen im Umgang mit Opioiden auch bei COVID-19 führen."

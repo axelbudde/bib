@@ -1,7 +1,7 @@
 ---
 title: "The COVID-19 Data Exchange Platform of the German University Medicine"
 date: 2022-01-01
-publishDate: 2022-11-25T19:35:44.925600Z
+publishDate: 2022-11-29T15:07:45.207545Z
 authors: ["Hans-Ulrich Prokosch", "Thomas Bahls", "Martin Bialke", "J&#252 Eils", " rgen", "Christian Fegeler", "Julian Gruendner", "Birger Haarbrandt", "Christopher Hampf", "Wolfgang Hoffmann", "Hauke Hund", "Marvin Kampf", "Lorenz A. Kapsner", "Piotr Kasprzak", "Oliver Kohlbacher", "Dagmar Krefting", "Jonathan M. Mang", "Michael Marschollek", "Sebastian Mate", " M&#252", "Armin Ller", "Fabian Prasser", "Julian Sass", "Sebastian Semler", "Holger Stenzhorn", "Sylvia Thun", "Sven Zenker", "Roland Eils"]
 publication_types: ["2"]
 abstract: ""

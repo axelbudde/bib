@@ -1,7 +1,7 @@
 ---
 title: "BCG vaccination provides protection against IAV but not SARS-CoV-2"
 date: 2022-03-01
-publishDate: 2022-11-25T19:35:44.947491Z
+publishDate: 2022-11-29T15:07:45.229401Z
 authors: ["Eva Kaufmann", "Nargis Khan", "Kim A. Tran", "Antigona Ulndreaj", "Erwan Pernet", "Ghislaine Fontes", "Andréanne Lupien", "Patrice Desmeules", "Fiona McIntosh", "Amina Abow", "Simone J. C. F. M. Moorlag", "Priya Debisarun", "Karen Mossman", "Arinjay Banerjee", "Danielle Karo-Atar", "Mina Sadeghi", "Samira Mubareka", "Donald C. Vinh", "Irah L. King", "Clinton S. Robbins", "Marcel A. Behr", "Mihai G. Netea", "Philippe Joubert", "Maziar Divangahi"]
 publication_types: ["2"]
 abstract: ""

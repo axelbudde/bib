@@ -1,7 +1,7 @@
 ---
 title: "Author Correction: COVID-19 Disease Map, building a computational repository of SARS-CoV-2 virus-host interaction mechanisms"
 date: 2020-07-01
-publishDate: 2022-11-25T19:35:44.752704Z
+publishDate: 2022-11-29T15:07:45.046804Z
 authors: ["Marek Ostaszewski", "Alexander Mazein", "Marc E. Gillespie", "Inna Kuperstein", "Anna Niarakis", "Henning Hermjakob", "Alexander R. Pico", "Egon L. Willighagen", "Chris T. Evelo", "Jan Hasenauer", "Falk Schreiber", "Andreas Dräger", "Emek Demir", "Olaf Wolkenhauer", "Laura I. Furlong", "Emmanuel Barillot", "Joaquin Dopazo", "Aurelio Orta-Resendiz", "Francesco Messina", "Alfonso Valencia", "Akira Funahashi", "Hiroaki Kitano", "Charles Auffray", "Rudi Balling", "Reinhard Schneider"]
 publication_types: ["2"]
 abstract: ""

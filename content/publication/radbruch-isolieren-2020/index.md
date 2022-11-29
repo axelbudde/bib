@@ -1,7 +1,7 @@
 ---
 title: "Isolieren, bis es weh tut – die Folgen der Corona-Pandemie"
 date: 2020-08-01
-publishDate: 2022-11-25T19:35:44.769210Z
+publishDate: 2022-11-29T15:07:45.063788Z
 authors: ["Lukas Radbruch", "Hans-Georg Schaible"]
 publication_types: ["2"]
 abstract: ""

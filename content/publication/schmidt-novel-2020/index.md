@@ -1,7 +1,7 @@
 ---
 title: "Novel treatment targets for COVID-19: Contribution from molecular psychiatry"
 date: 2020-08-01
-publishDate: 2022-11-25T19:35:44.872210Z
+publishDate: 2022-11-29T15:07:45.154910Z
 authors: ["Ulrike Schmidt", "Theo Rein"]
 publication_types: ["2"]
 abstract: ""

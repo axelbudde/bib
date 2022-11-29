@@ -1,7 +1,7 @@
 ---
 title: "Rare variants increase the risk of severe COVID-19"
 date: 2021-03-01
-publishDate: 2022-11-25T19:35:44.852185Z
+publishDate: 2022-11-29T15:07:45.137666Z
 authors: ["Frank L van de Veerdonk", "Mihai G Netea"]
 publication_types: ["2"]
 abstract: "Evidence is mounting that rare loss-of-function variants in the TLR7 gene predispose men with no medical history to severe forms of COVID-19."

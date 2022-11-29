@@ -1,7 +1,7 @@
 ---
 title: "Versorgungssituation von Insektengiftallergikern während der COVID-19-Pandemie"
 date: 2020-01-01
-publishDate: 2022-11-25T19:35:44.893195Z
+publishDate: 2022-11-29T15:07:45.175477Z
 authors: ["Margitta Worm", "Barbara Ballmer-Weber", "Randolf Brehler", "Mandy Cuevas", "Anna Gschwend", "Karin Hartmann", "Thomas Hawranek", "Wolfram Hötzenecker", "Bernhard Homey", "Thilo Jakob", "Natalija Novak", "Julia Pickert", "Joachim Saloga", "Knut Schäkel", "Axel Trautmann", "Regina Treudler", "Bettina Wedi", "Gunter Sturm", "Franziska Rueff"]
 publication_types: ["2"]
 abstract: ""

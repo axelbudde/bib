@@ -1,7 +1,7 @@
 ---
 title: "Strong immunity against COVID-19 in the early two years of age links to frequent immunization of routine vaccines"
 date: 2020-12-01
-publishDate: 2022-11-25T19:35:44.794172Z
+publishDate: 2022-11-29T15:07:45.087884Z
 authors: ["Li Qiu", "Chengdong Zhang", "Junbo Wu", "Jie Luo", "Mihai G. Netea", "Zhiguo Luo", "Qibin Leng"]
 publication_types: ["2"]
 abstract: ""

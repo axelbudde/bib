@@ -1,7 +1,7 @@
 ---
 title: "SARS-CoV-2: Herausforderung für alle"
 date: 2020-03-01
-publishDate: 2022-11-25T19:35:44.852855Z
+publishDate: 2022-11-29T15:07:45.138276Z
 authors: ["Frank G. Holz"]
 publication_types: ["2"]
 abstract: ""

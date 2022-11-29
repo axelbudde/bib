@@ -1,7 +1,7 @@
 ---
 title: "Late-Onset Vaccine-Induced Immune Thombotic Thrombocytopenia (VITT) with Cerebral Venous Sinus Thrombosis"
 date: 2022-04-01
-publishDate: 2022-11-25T19:35:44.997867Z
+publishDate: 2022-11-29T15:07:45.277346Z
 authors: ["Maruan Saleh", "Julian Zimmermann", "Nils C. Lehnen", "Bernd Pötzsch", "Johannes M. Weller"]
 publication_types: ["2"]
 abstract: ""

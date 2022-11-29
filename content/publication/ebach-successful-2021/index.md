@@ -1,7 +1,7 @@
 ---
 title: "Successful ECMO therapy in a child with COVID-19-associated ARDS and acute lymphoblastic leukemia"
 date: 2021-01-01
-publishDate: 2022-11-25T19:35:45.021768Z
+publishDate: 2022-11-29T15:07:45.300806Z
 authors: ["Fabian Ebach", "Ina Hainmann", "Anna M. Eis-Hübinger", "Gabriele Escherisch", "Dagmar Dilloo", "Heiko M. Reutter", "Andreas Müller"]
 publication_types: ["2"]
 abstract: ""

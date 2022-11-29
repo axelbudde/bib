@@ -1,7 +1,7 @@
 ---
 title: "BCG vaccination in health care providers and the protection against COVID-19"
 date: 2021-01-01
-publishDate: 2022-11-25T19:35:44.794897Z
+publishDate: 2022-11-29T15:07:45.088603Z
 authors: ["Mihai G. Netea", "Jos W. M. van der Meer", "Reinout van Crevel"]
 publication_types: ["2"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Investigating potential mechanisms underlying FVIII inhibition in acquired hemophilia A associated with mRNA COVID-19 vaccines"
 date: 2022-01-01
-publishDate: 2022-11-25T19:35:44.998585Z
+publishDate: 2022-11-29T15:07:45.278109Z
 authors: ["Julia R. Hirsiger", "Maria Martinez", "Dimitrios A. Tsakiris", "Micol G. Cittone", "Lukas Graf", "Johannes Oldenburg", "Behnaz Pezeshkpoor", "Mike Recher", "Jens Mueller", "Bernhard Gerber", "Christoph T. Berger"]
 publication_types: ["2"]
 abstract: ""

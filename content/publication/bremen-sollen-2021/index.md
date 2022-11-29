@@ -1,7 +1,7 @@
 ---
 title: "Sollen Kinder onkologischer Patienten während der COVID-19-Pandemie Kitas oder Schulen besuchen?"
 date: 2021-01-01
-publishDate: 2022-11-25T19:35:44.898453Z
+publishDate: 2022-11-29T15:07:45.180784Z
 authors: ["R. Bremen", "A. Petermann-Meyer", "N. Ernstmann", "E. Jost", "J. Panse", "T. H. Brümmendorf"]
 publication_types: ["2"]
 abstract: ""

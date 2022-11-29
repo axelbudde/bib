@@ -1,7 +1,7 @@
 ---
 title: "The recent outbreaks of human coronaviruses: A medicinal chemistry perspective"
 date: 2021-01-01
-publishDate: 2022-11-25T19:35:44.907640Z
+publishDate: 2022-11-29T15:07:45.190130Z
 authors: ["Thanigaimalai Pillaiyar", "Lukas L. Wendt", "Manoj Manickam", "Maheswaran Easwaran"]
 publication_types: ["2"]
 abstract: "Coronaviruses (CoVs) infect both humans and animals. In humans, CoVs can cause respiratory, kidney, heart, brain, and intestinal infections that can range from mild to lethal. Since the start of the 21st century, three β-coronaviruses have crossed the species barrier to infect humans: severe-acute respiratory syndrome (SARS)-CoV-1, Middle East respiratory syndrome (MERS)-CoV, and SARS-CoV-2 (2019-nCoV). These viruses are dangerous and can easily be transmitted from human to human. Therefore, the development of anticoronaviral therapies is urgently needed. However, to date, no approved vaccines or drugs against CoV infections are available. In this review, we focus on the medicinal chemistry efforts toward the development of antiviral agents against SARS-CoV-1, MERS-CoV, SARS-CoV-2, targeting biochemical events important for viral replication and its life cycle. These targets include the spike glycoprotein and its host-receptors for viral entry, proteases that are essential for cleaving polyproteins to produce functional proteins, and RNA-dependent RNA polymerase for viral RNA replication."

@@ -1,7 +1,7 @@
 ---
 title: "Considering BCG vaccination to reduce the impact of COVID-19"
 date: 2020-05-01
-publishDate: 2022-11-25T19:35:44.776610Z
+publishDate: 2022-11-29T15:07:45.071065Z
 authors: ["Nigel Curtis", "Annie Sparrow", "Tedros A Ghebreyesus", "Mihai G Netea"]
 publication_types: ["2"]
 abstract: ""

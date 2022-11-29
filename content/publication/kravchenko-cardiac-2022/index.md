@@ -1,7 +1,7 @@
 ---
 title: "Cardiac adverse reactions of COVID-19 vaccination: cardiac MRI findings"
 date: 2022-11-01
-publishDate: 2022-11-25T19:35:44.958390Z
+publishDate: 2022-11-29T15:07:45.239688Z
 authors: ["Dmitrij Kravchenko", "Julian Alexander Luetkens"]
 publication_types: ["2"]
 abstract: "The rapid development of COVID-19 vaccines in the wake of the COVID-19 pandemic has led to an equally expediently deployed vaccination campaign with more than 12 billion vaccinations administered worldwide. Reports of vaccine-associated adverse reactions (VAARs) have ranged from headaches and pain at the injection site to potentially life-threatening events such as cerebral venous sinus thrombosis. The heart has also not been spared of VAARs, as vaccine-associated myocardial infarction and more commonly, albeit still rare, myocarditis and perimyocarditis have been reported in predominantly young male recipients."

@@ -1,7 +1,7 @@
 ---
 title: "Between Scylla and Charybdis: NavigatingChronic Pain Patients Through the COVID-19 andthe Opioid Pandemic"
 date: 2020-08-01
-publishDate: 2022-11-25T19:35:44.880876Z
+publishDate: 2022-11-29T15:07:45.162972Z
 authors: ["Gregor A. Bara"]
 publication_types: ["2"]
 abstract: ""

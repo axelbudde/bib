@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 und Schmerz – Call for Papers"
 date: 2020-04-01
-publishDate: 2022-11-25T19:35:44.861326Z
+publishDate: 2022-11-29T15:07:45.139484Z
 authors: ["Lukas Radbruch", "Hans-Georg Schaible"]
 publication_types: ["2"]
 abstract: ""

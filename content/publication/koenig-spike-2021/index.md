@@ -1,7 +1,7 @@
 ---
 title: "Spike D614G — A Candidate Vaccine Antigen Against Covid-19"
 date: 2021-06-01
-publishDate: 2022-11-25T19:35:45.036172Z
+publishDate: 2022-11-29T15:07:45.314684Z
 authors: ["Paul-Albert Koenig", "Florian I. Schmidt"]
 publication_types: ["2"]
 abstract: ""

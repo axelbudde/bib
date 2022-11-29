@@ -1,7 +1,7 @@
 ---
 title: "Persistent Maintenance of Intermediate Memory B Cells Following SARS-CoV-2 Infection and Vaccination Recall Response"
 date: 2022-07-01
-publishDate: 2022-11-25T19:35:44.975169Z
+publishDate: 2022-11-29T15:07:45.254993Z
 authors: ["Jernej Pušnik", "Julia König", "Karola Mai", "Enrico Richter", "Jasmin Zorn", "Hannah Proksch", "Bianca Schulte", "Galit Alter", "Hendrik Streeck"]
 publication_types: ["2"]
 abstract: ""

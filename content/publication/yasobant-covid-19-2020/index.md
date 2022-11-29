@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 in India: Making a case for the one health surveillance system"
 date: 2020-06-01
-publishDate: 2022-11-25T19:35:44.866921Z
+publishDate: 2022-11-29T15:07:45.142607Z
 authors: ["Sandul Yasobant", "Krupali Patel", "Deepak Saxena", "Timo Falkenberg"]
 publication_types: ["2"]
 abstract: "textlessbrtextgreaterPandemics like COVID-19 warrant an urgent implementation of the one health surveillance (OHS) system to the focus on multisectoral, multidisciplinary, multi-institutional, and multispecialty coordination, in all aspects of the response to outbreaks that might involve humans, animals, and their environment. The Indian system so far has evolved in conducting surveillance and monitoring of parameters within the domain of human health, animal health, and the environment, but in silos. This commentary piece provides an opinion to boost the existing surveillance activities for early detection and ways to develop an integrated OHS to prevent future COVID-19 like pandemics in India. It also attempts to provide possible solutions at the interface of human–animal–environment, from the simpler to the complex system integration with the principles of one health.textlessbrtextgreater"

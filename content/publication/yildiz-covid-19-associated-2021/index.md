@@ -1,7 +1,7 @@
 ---
 title: "COVID-19-Associated Cerebral White Matter Injury in a Newborn Infant With Afebrile Seizure"
 date: 2021-07-01
-publishDate: 2022-11-25T19:35:45.015110Z
+publishDate: 2022-11-29T15:07:45.294547Z
 authors: ["Harun Yildiz", "Erbu Yarci", "Sefika Elmas Bozdemir", "Nesrin Ozdinc Kizilay", "Senay Mengi", "Naciye Beskardesler", "Gulay Korukluoglu", "Andreas Mueller", "Soyhan Bagci"]
 publication_types: ["2"]
 abstract: "Coronavirus disease 2019 (COVID-19) symptoms in newborn infants are incompletely described. We present the first case of neuroradiologic abnormality associated with COVID-19 in a newborn infant with afebrile seizure. This case underlines the possible neurologic involvement of severe acute respiratory syndrome coronavirus 2 in this age group."

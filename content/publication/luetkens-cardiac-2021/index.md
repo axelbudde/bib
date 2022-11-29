@@ -1,7 +1,7 @@
 ---
 title: "Cardiac MRI in Suspected Acute COVID-19 Myocarditis"
 date: 2021-03-01
-publishDate: 2022-11-25T19:35:44.809787Z
+publishDate: 2022-11-29T15:07:45.101748Z
 authors: ["Julian A. Luetkens", "Alexander Isaak", "Can Öztürk", "Narine Mesropyan", "Malte Monin", "Sefan Schlabe", "Matthäus Reinert", "Anton Faron", "Annkristin Heine", "Markus Velten", "Darius Dabir", "Christoph Boesecke", "Christian P. Strassburg", "Ulrike Attenberger", "Sebastian Zimmer", "Georg D. Duerr", "Jacob Nattermann"]
 publication_types: ["2"]
 abstract: "Keywords: COVID-19; coronavirus; myocarditis; cardiac MRI; T1 mapping; T2 mapping"

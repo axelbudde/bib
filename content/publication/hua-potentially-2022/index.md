@@ -1,7 +1,7 @@
 ---
 title: "Potentially improved response of COVID-19 vaccinated nasopharyngeal cancer patients to combination therapy with anti-PD-1 blockade and chemotherapy"
 date: 2022-10-01
-publishDate: 2022-11-25T19:35:44.955069Z
+publishDate: 2022-11-29T15:07:45.236644Z
 authors: ["Y. J. Hua", "Y. L. Liu", "K. Wen", "C. Kurts", "H. Wu", "Q. Mei", "J. Li"]
 publication_types: ["2"]
 abstract: ""
